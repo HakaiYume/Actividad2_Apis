@@ -7,6 +7,19 @@ using Microsoft.Extensions.Logging;
 using API_IMC.API_IMC.Entities;
 using System.Text.Json;
 
+/* 
+    Universidad Tecnologica Metropolitana
+
+    Aplicaciones Web Orientadas a Objetos
+    Docente: Chuc Uc Joel Ivan
+    Actividad: Actividad 2, Ejercicio 1
+
+    Alumno: Daniel Francisco Puch Ceballos
+    Cuatrimestre: 4
+    Parcial: 1
+    Grupo: A
+*/
+
 namespace API_IMC.API_IMC.Controllers
 {
     [ApiController]

@@ -8,6 +8,19 @@ using API_Palindromos.Entities;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
+/* 
+    Universidad Tecnologica Metropolitana
+
+    Aplicaciones Web Orientadas a Objetos
+    Docente: Chuc Uc Joel Ivan
+    Actividad: Actividad 2, Ejercicio 2
+
+    Alumno: Daniel Francisco Puch Ceballos
+    Cuatrimestre: 4
+    Parcial: 1
+    Grupo: A
+*/
+
 namespace API_Palindromos.Controllers
 {
     [ApiController]
